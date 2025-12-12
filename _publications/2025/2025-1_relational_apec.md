@@ -2,7 +2,7 @@
 title:          "Relational Strategic Alignments of Non-Binding IGOs: The Case of APEC"
 date:           2025-12-31 00:01:00 +0800
 selected:       true
-permalink:      /research/job-market-paper/
+# permalink:      /research/job-market-paper/
 # pub:            ""
 # pub_pre:        "Submitted to "
 pub_post:       '<span class="badge badge-pill badge-publication badge-success">Under Review</span>'

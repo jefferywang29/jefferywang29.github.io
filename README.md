@@ -9,7 +9,7 @@ and Systems) at Indiana University Bloomington. My research examines how
 non-binding international organizations generate cooperation through
 relational and network-based mechanisms, with a focus on APEC and ISO.
 
-My <a href="{{ '/research/job-market-paper/' | relative_url }}">
+My <a href="{{ '/research/' | relative_url }}">
 job-market paper</a> examines how non-binding international organizations sustain
 cooperation through networked strategic alignments, using APEC project
 co-sponsorship data.
