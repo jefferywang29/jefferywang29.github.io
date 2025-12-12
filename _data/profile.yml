@@ -1,61 +1,62 @@
-primary_name: "Your Name"
+primary_name: "Jeffery Wang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jeffery Shih-Chieh Wang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: PhD Candidate
+- name: Indiana University Bloomington
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "jscw@iu.edu"
+cv_link: /CV
+#gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: jefferywang29
+twitter: jefferywang0429 # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+linkedin: jeffery-shih-chieh-wang/
+orcid: 0000-0001-5112-3156
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  <p>    
+    Welcome to my website! I am a Ph.D. candidate in <a href="https://polisci.indiana.edu/index.html" target="_blank"> Political Science </a> and <a href="https://informatics.indiana.edu/index.html" target="_blank"> Informatics </a> at Indiana University Bloomington and a 2025–2026 job-market candidate. 
+    I am part of the NSF-funded <a href="https://luddy.indiana.edu/academics/grad-programs/training-grants/index.html" target="_blank"> Interdisciplinary Dual Ph.D. Program in Complex Networks and Systems.</a> 
+  </p>
+
+
+
+  </p>
+    My research bridges international relations and computational social science, focusing on how non-binding international institutions enable strategic cooperation through informal, networked alignments. 
+    My dissertation explains why non-binding IGOs like APEC remain effective despite lacking enforcement mechanisms. 
+    I show that cooperation arises from relational (networked), strategic alignments such as balancing, bandwagoning, or hedging, rather than formal rules. 
+    Using temporal ERGMs on APEC co-sponsorship networks (2006–2019), I find that states form issue-specific coalitions through strategic bandwagoning—expressed as 
+    friend-of-friend clustering conditioned on both target-specific influence and the attributes of shared partners, with dynamics that differ across high- and low-politics domains. 
+    The findings reveal a cooperative structure in which influential members anchor collaboration while others align through relational pathways shaped by 
+    existing ties, demonstrating that non-binding IGOs like APEC remain strategically valuable because they enable flexible, network-based forms of cooperation that persist even without formal enforcement. 
+    For more details, please go to my <a href="/academic-homepage/publications"> research page.</a> 
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research is informed by previous professional experience as a coordinator of the APEC SME Working Group for the Taiwanese government. 
+    I am also working on projects with other IR scholars related to ISO standardization politics and legal institutions in climate-related human trafficking. 
+    These works are currently under review in political science journals.
+  </p>
+  <p> 
+    At Indiana University, I have taught across Political Science and Informatics, serving as instructor of record for 
+    Data Fluency and Politics of Global Governance, and as associate instructor for Analyzing Politics, Data Fluency, International Organizations, and Introduction to Informatics.
+  <p>
+  <p>
+    My research has been supported by Taiwanese Overseas Pioneers Grant from the National Science and Technology Council to fund my Ph.D. dissertation, 
+    along with a four-year fellowship for doctoral study abroad from the Taiwanese Ministry of Education. 
+    I hold an M.A. in International Relations from National Taiwan University and a B.A. in Political Science from Chinese Culture University.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+#portrait_caption: >-
+  #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+

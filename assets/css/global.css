@@ -90,3 +90,19 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+/* --- Custom Navbar Color Override --- */
+
+.navbar {
+    background-color: #0b3d91 !important;   /* Beautiful academic blue */
+    opacity: 1 !important;  /* optional: remove slight transparency */
+}
+
+.navbar a,
+.navbar-brand {
+    color: white !important;
+}
+
+.navbar a:hover {
+    color: #d6eaff !important;  /* light blue hover */
+}
+
