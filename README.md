@@ -21,8 +21,4 @@ This website is built on the excellent
 by luost26, with custom modifications for research, teaching, and data
 presentation.
 
-<footer class="text-center text-muted py-4">
-  <div>
-    © {{ "now" | date: "%Y" }} Jeffery Shih-Chieh Wang
-  </div>
-</footer>
+© 2025 Jeffery Shih-Chieh Wang. Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
