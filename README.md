@@ -23,10 +23,6 @@ presentation.
 
 <footer class="text-center text-muted py-4">
   <div>
-   © 2025 Jeffery Shih-Chieh Wang.  
-  </div>
-  <div class="small">
-    Content on this site is the intellectual property of the author unless
-    otherwise noted.
+    © {{ "now" | date: "%Y" }} Jeffery Shih-Chieh Wang
   </div>
 </footer>
