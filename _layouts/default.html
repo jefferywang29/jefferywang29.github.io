@@ -22,7 +22,13 @@
     window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
     plausible.init()
     </script>
+
+     <!-- Privacy-friendly analytics by Umami -->
+    <script 
+    defer src="https://cloud.umami.is/script.js" data-website-id="a8d69fda-5bd6-48dd-b188-d37a22913b3d">
+    </script>
 </head>
+
 <body class="bg-light" {{ page.body_attr }}>
     {% include navbar.html %}
     <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
