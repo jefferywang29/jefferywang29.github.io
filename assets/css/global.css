@@ -106,3 +106,6 @@ div.lazy {
     color: #d6eaff !important;  /* light blue hover */
 }
 
+.subnav { margin: 1rem 0 1.25rem; display: flex; gap: 1rem; flex-wrap: wrap; }
+.subnav a { text-decoration: none; opacity: 0.75; }
+.subnav a.active { opacity: 1; font-weight: 800; border-bottom: 2px solid currentColor; }

@@ -42,3 +42,5 @@ collections:
     output: true
   teaching:
     output: true
+  lab:
+    output: false
