@@ -11,3 +11,5 @@ pages:
   url: /teaching
 # - name: Lab
 #   url: /lab
+- name: R Tutorial 
+  url: /r-basics/
