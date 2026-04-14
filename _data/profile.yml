@@ -5,64 +5,39 @@ navbar_name: "Jeffery Shih-Chieh Wang"
 positions:
 - name: PhD Candidate
 - name: Indiana University Bloomington
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-
+  logo: /assets/images/badges/MIT_Social_circle.png
 
 email: "jscw@iu.edu"
 cv_link: /CV
-#gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+#gscholar: xFmQpf4AAAAJ
 github: jefferywang29
-twitter: jefferywang0429 # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+twitter: jefferywang0429
 linkedin: jeffery-shih-chieh-wang/
 orcid: 0000-0001-5112-3156
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>    
-    Weclome to my website! I am a Ph.D. candidate in <a href="https://polisci.indiana.edu/index.html" target="_blank"> Political Science </a> and <a href="https://informatics.indiana.edu/index.html" target="_blank"> Informatics </a> at Indiana University Bloomington. 
-    I am part of the NSF-funded <a href="https://cns.iu.edu/docs/handouts/CNetS-NRT-lo.pdf" target="_blank"> Interdisciplinary Dual Ph.D. Program in Complex Networks and Systems</a>. The program is discussed in a recent study published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779" target="_blank">PLOS ONE</a>.
-  </p>
-
-
-
-  </p>
-   My research bridges international relations and computational social science to explain how global cooperation and contestation unfold through informal institutions, relational structures, and networked forms of power. 
-   I am especially interested in how international order is sustained, adapted, or contested when formal rules are weak, authority is fragmented, and states rely on flexible patterns of alignment rather than binding commitments. 
-   My dissertation examines this question through the case of APEC, showing why non-binding IGOs can remain effective even without strong enforcement mechanisms. 
-   I argue that cooperation in such settings emerges through strategic, networked alignments such as balancing, bandwagoning, and hedging. 
-   Using temporal ERGMs on APEC co-sponsorship networks from 2006 to 2019, I show that states form issue-specific coalitions through relational pathways shaped by existing ties, with influential members anchoring collaboration and others aligning through friend-of-friend structures conditioned by power, institutional position, and issue domain. These findings demonstrate that non-binding institutions remain strategically valuable because they provide flexible arenas for network-based cooperation under changing geopolitical conditions.
-   </a>.
+  <p>
+    Welcome to my website. I am a Ph.D. candidate in <a href="https://polisci.indiana.edu/index.html" target="_blank">Political Science</a> at Indiana University Bloomington, where I also pursue interdisciplinary training in <a href="https://informatics.indiana.edu/index.html" target="_blank">Informatics</a> through the NSF-funded <a href="https://cns.iu.edu/docs/handouts/CNetS-NRT-lo.pdf" target="_blank">Interdisciplinary Dual Ph.D. Program in Complex Networks and Systems</a>.
   </p>
 
   <p>
-  More broadly, my current research agenda examines how states compete and cooperate across multiple issue areas central to contemporary global order, including regional governance, standard-setting, climate-related human trafficking, and China’s role in international institutions. 
-  In one line of work, I study the politics of ISO standardization to understand how influence operates in ostensibly technical arenas and how standard-setting institutions may reflect broader patterns of geopolitical competition and coordination. 
-  In another, I examine how legal institutions and environmental shocks reshape human trafficking networks, with particular attention to how climate-related pressures alter routes, vulnerabilities, and institutional responses. 
-  A collaborative paper from this project is currently under revise-and-resubmit at <em>International Studies Quarterly</em>. Across these projects, I ask how power operates through networks, how institutional arrangements shape strategic behavior, and how emerging global challenges are reorganizing cooperation in the contemporary international system. For more details, please go to my <a href="/research/">research page</a>.
-  <p>
-
-  <p>
-    My research is also informed by prior professional experience as a coordinator of the APEC SME Working Group for the Taiwanese government, which gave me firsthand exposure to the practical politics of non-binding regional cooperation. 
+    My research examines how global governance and international cooperation evolve through relational networks, institutional design, domestic legalization, and external shocks such as climate change. I focus on three main areas: strategic alignment in international institutions, especially informal and non-binding ones; how domestic policies and climate-related shocks reshape transnational flows of people, goods, and vulnerability; and how cooperation networks shape the resilience and evolution of global order. Methodologically, I use statistical network analysis, original relational datasets, and computational social science approaches to study how institutional design and network structure shape political interactions.
   </p>
-  <p> 
-    At Indiana University, I have taught across Political Science and Informatics, serving as instructor of record for 
-    Data Fluency and Politics of Global Governance, and as associate instructor for Analyzing Politics, Data Fluency, International Organizations, and Introduction to Informatics. 
-    For more details, please go to my <a href="/teaching/">teaching page</a>.
 
   <p>
+    My dissertation examines why some soft-law and non-binding intergovernmental organizations remain effective despite weak enforcement. Using APEC as my primary case, I argue that cooperation in these settings is sustained not only by formal institutional design but also by relational hierarchy and networked strategic alignment. I show that cooperation in APEC is structured by bandwagoning and brokerage clustering: economies are more likely to form ties when potential partners are connected through stronger shared partners, and these clustering dynamics vary across issue domains depending on the attributes of the actors around which cooperation is organized.
+  </p>
+
   <p>
-    My research has been supported by Taiwanese Overseas Pioneers Grant from the National Science and Technology Council to fund my Ph.D. dissertation, 
-    along with a four-year fellowship for doctoral study abroad from the Taiwanese Ministry of Education. 
-    I hold an M.A. in International Relations from National Taiwan University and a B.A. in Political Science from Chinese Culture University.
+    My broader research includes work on how legal interventions and climate shocks reshape human trafficking networks, China’s participation in ISO standard-setting, and the resilience of global order under contemporary geopolitical fragmentation. A coauthored paper on human trafficking and climate shocks is currently under revise-and-resubmit at <em>International Studies Quarterly</em>, and other research is currently under review at <em>International Interactions</em> and other journals. Before beginning my Ph.D., I worked on APEC policy and capacity-building initiatives at the Taiwan Institute of Economic Research and served as coordinator for Taiwan’s Bureau of Small and Medium Enterprise to APEC. For more details, please visit my <a href="/research/" target="_blank">research page</a>.
+  </p>
+
+  <p>
+    At Indiana University, I have taught across Political Science and Informatics as Instructor of Record for <em>Politics of Global Governance</em> and <em>Data Fluency</em>, and as Associate Instructor for courses including <em>International Organization</em>, <em>Analyzing Politics</em>, and <em>Introduction to Informatics</em>. I also teach <em>R</em> and develop introductory materials for data analysis and computational social science; for example, see my <a href="https://jeffery-wang.com/r-basics/" target="_blank">R Tutorial page</a>. My research has been supported by the Taiwanese Overseas Pioneers Ph.D. Dissertation Grant from Taiwan’s National Science and Technology Council (USD 30,000) and the Taiwanese Government Fellowship for Overseas Ph.D. Study from the Ministry of Education (USD 188,000). For more details, please visit my <a href="/teaching/" target="_blank">teaching page</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 
 #portrait_caption: >-
   #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
-
-
-
