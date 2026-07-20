@@ -4,7 +4,7 @@ date:           2025-12-30 00:01:00 +0800
 selected:       true
 # pub:            ""
 # pub_pre:        "Submitted to "
-pub_post:       '<span class="badge badge-pill badge-publication badge-info">Revise and Resubmit </span>'
+pub_post:       '<span class="badge badge-pill badge-publication badge-info">Revised and Resubmitted </span>'
 pub_last:       '<span class="badge badge-pill badge-publication badge-success">International Studies     Quarterly</span>'  
 pub_date:       " "
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
