@@ -1,6 +1,7 @@
 ---
 title: "Policies Diffuse across IGOs: A Multilayer Networks Anlaysis"
 date: 2025-12-28
+status: Research in Progress
 selected: true
 
 pub_pre: "<span class='badge badge-pill badge-publication badge-warning'>Research in Progress</span>"

@@ -1,6 +1,7 @@
 ---
 title: "Strategic Participation in APEC: A Mechanism-Focused, Process-Tracing Case Study"
 date: 2025-12-29
+status: Research in Progress
 selected: true
 
 pub_pre: "<span class='badge badge-pill badge-publication badge-warning'>Research in Progress</span>"

@@ -1,6 +1,7 @@
 ---
 title: "Modeling IGO Agency through Hypergraph and Bipartite Network Analysis"
 date: 2025-12-25
+status: Research in Progress
 selected: true
 
 pub_pre: "<span class='badge badge-pill badge-publication badge-warning'>Research in Progress</span>"

@@ -1,6 +1,7 @@
 ---
 title: "Evaluating Taiwan’s Endeavor in APEC under The Political Challenges from China: A Complex Network Perspective"
 date: 2023-06-14
+status: Research in Progress
 selected: true
 
 pub_pre: "<span class='badge badge-pill badge-publication badge-warning'>Research in Progress</span>"

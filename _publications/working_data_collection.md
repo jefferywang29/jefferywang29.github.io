@@ -1,6 +1,7 @@
 ---
 title: "Data Collection Project: Relational Datasets for Non-binding IGOs"
 date: 2025-12-27
+status: Research in Progress
 selected: true
 
 pub_pre: "<span class='badge badge-pill badge-publication badge-warning'>Research in Progress</span>"
