@@ -5,10 +5,15 @@ navbar_title: Research
 permalink: /research/
 ---
 
-{% assign status_order = "Peer-Reviewed Publications,Job Market Paper,Under Review,Books,Research in Progress" | split: "," %}
+{% assign status_order = "Peer-Reviewed Publications,Job Market Paper,Under Review,Research in Progress,Books and Policy Papers" | split: "," %}
 
 <div class="row">
-  <div class="col-12">
+
+  <div class="col-lg-3 col-md-4">
+    {% include widgets/profile_card_mini.html %}
+  </div>
+
+  <div class="col-lg-9 col-md-8">
 
     {% for status in status_order %}
       {% assign items = site.publications
@@ -32,4 +37,5 @@ permalink: /research/
     {% endfor %}
 
   </div>
+
 </div>
