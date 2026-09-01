@@ -19,27 +19,59 @@ short_bio_text_justify: false
 
 short_bio: >-
   <p>
-    Welcome to my website. I recently completed my Ph.D. in <a href="https://polisci.indiana.edu/index.html" target="_blank">Political Science</a> at Indiana University Bloomington, where I also pursued interdisciplinary training in <a href="https://informatics.indiana.edu/index.html" target="_blank">Informatics</a> through the NSF-funded <a href="https://cns.iu.edu/docs/handouts/CNetS-NRT-lo.pdf" target="_blank">Interdisciplinary Dual Ph.D. Program in Complex Networks and Systems</a>.
+  Welcome to my website. I recently completed my Ph.D. 
+  in <a href="https://polisci.indiana.edu/index.html" target="_blank">Political Science</a> 
+  at Indiana University Bloomington, 
+  where I also pursued interdisciplinary training in 
+  <a href="https://informatics.indiana.edu/index.html" target="_blank">Informatics</a> 
+  through the 
+  <a href="https://cns.iu.edu/docs/handouts/CNetS-NRT-lo.pdf" target="_blank">Interdisciplinary Dual Ph.D. Program 
+  in Complex Networks and Systems</a>.
+ </p>
+ 
+  <p>
+    I study how global order changes, and I treat that change as three simultaneous dynamics rather than a single story of decline: 
+    <em>rupture</em>, as major powers withdraw selectively and reach for unilateral instruments; 
+    <em>reconfiguration</em>, as middle powers build flexible alternatives to institutions they can no longer rely on; and 
+    <em>reinforcement</em>, as rising powers work through existing liberal frameworks from the inside. 
+    Trade is the pivotal network where all three become visible. 
+    Methodologically, I treat institutions as relational structures rather than containers, 
+      using temporal and multilayer network models, exponential random graph models, hypergraph and bipartite analysis, 
+      computational text analysis, and graph neural network modeling.
   </p>
 
   <p>
-    I study how global order changes, and I treat that change as three simultaneous dynamics rather than a single story of decline: <em>rupture</em>, as major powers withdraw selectively and reach for unilateral instruments; <em>reconfiguration</em>, as middle powers build flexible alternatives to institutions they can no longer rely on; and <em>reinforcement</em>, as rising powers work through existing liberal frameworks from the inside. Trade is the pivotal network where all three become visible. Methodologically, I treat institutions as relational structures rather than containers, using temporal and multilayer network models, exponential random graph models, hypergraph and bipartite analysis, computational text analysis, and graph neural network modeling.
+    My dissertation, defended in August 2026, asks why soft-law and non-binding intergovernmental organizations remain effective despite weak enforcement. 
+    Using APEC project cosponsorship networks, I show that cooperation is sustained by relational hierarchy rather than formal rules. 
+      Smaller economies bandwagon with influential actors—whether influential because of their material attributes or their structural positions 
+      in the network—rather than hedge against them. 
+      These interactions form transitive brokerage clusters whose organizing logic varies across issue domains.
   </p>
 
   <p>
-    My dissertation, defended in August 2026, asks why soft-law and non-binding intergovernmental organizations remain effective despite weak enforcement. Using APEC project cosponsorship networks, I show that cooperation is sustained by relational hierarchy rather than formal rules: smaller economies bandwagon with rather than balance against the United States, forming transitive brokerage clusters in which economic capability outweighs military strength, and these dynamics vary across issue domains.
+  Related work examines how disaster shocks and anti-trafficking laws reshape human trafficking networks, with a coauthored paper conditionally accepted at <em>International Studies Quarterly</em>;
+  how China participates in international institutions through its growing role in ISO standard-setting;
+  how states lacking control of material chokepoints substitute regulatory ones through standards leadership in ISO and IEC;
+  and how the global order absorbs or fails to absorb rupture.
+  Before my Ph.D., I worked on APEC policy and capacity-building at the Taiwan Institute of Economic Research and served as coordinator for
+  Taiwan&rsquo;s Bureau of Small and Medium Enterprise to APEC. For more, see my <a href="/research/" target="_blank">research page</a>.
+  I am also a coauthor of an introductory political science textbook published in Chinese.
   </p>
 
   <p>
-    Related work examines how disaster shocks and anti-trafficking laws reshape human trafficking networks, conditionally accepted at <em>International Studies Quarterly</em>; how states lacking control of material chokepoints substitute regulatory ones through standards leadership in ISO and IEC; and how the global order absorbs or fails to absorb rupture. Before my Ph.D. I worked on APEC policy and capacity-building at the Taiwan Institute of Economic Research and served as coordinator for Taiwan&rsquo;s Bureau of Small and Medium Enterprise to APEC. For more, see my <a href="/research/" target="_blank">research page</a>.
+    I regard teaching as inseparable from research, and the chance to teach was one reason I left several years of policy work for doctoral study. 
+    At Indiana University I was Instructor of Record for <em>Politics of Global Governance</em> and <em>Data Fluency</em>, and 
+    Associate Instructor for <em>International Organization</em>, <em>Analyzing Politics</em>, and <em>Introduction to Informatics</em>. 
+    My classrooms are built around active learning and around a question generative AI has made urgent: 
+    as routine execution becomes inexpensive, the distinctly human contribution moves upstream to problem definition and downstream to judgment and communication. 
+    See my <a href="/teaching/" target="_blank">teaching page</a> and my <a href="https://jeffery-wang.com/r-basics/" target="_blank">R Tutorial</a>.
   </p>
 
   <p>
-    I regard teaching as inseparable from research, and the chance to teach was one reason I left several years of policy work for doctoral study. At Indiana University I was Instructor of Record for <em>Politics of Global Governance</em> and <em>Data Fluency</em>, and Associate Instructor for <em>International Organization</em>, <em>Analyzing Politics</em>, and <em>Introduction to Informatics</em>. My classrooms are built around active learning and around a question generative AI has made urgent: as routine execution becomes inexpensive, the distinctly human contribution moves upstream to problem definition and downstream to judgment and communication. See my <a href="/teaching/" target="_blank">teaching page</a> and my <a href="https://jeffery-wang.com/r-basics/" target="_blank">R Tutorial</a>.
-  </p>
-
-  <p>
-    My research has been supported by the Taiwanese Overseas Pioneers Ph.D. Dissertation Grant from Taiwan&rsquo;s National Science and Technology Council (USD 30,000) and the Taiwanese Government Fellowship for Overseas Ph.D. Study from the Ministry of Education (USD 188,000).
+  My research and doctoral training have been supported by the Taiwanese Overseas Pioneers Ph.D. Dissertation Grant from
+  Taiwan&rsquo;s National Science and Technology Council (USD 30,000), the Taiwanese Government Fellowship for Overseas Ph.D. Study
+  from the Ministry of Education (USD 188,000), and the U.S. National Science Foundation through the
+  Interdisciplinary Training in Complex Networks and Systems program at Indiana University (NSF Award #1735095).
   </p>
 
 
