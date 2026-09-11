@@ -3,8 +3,10 @@ secondary_name: ""
 navbar_name: "Jeffery Shih-Chieh Wang"
 
 positions:
-- name: Ph.D. in Political Science and Informatics
-- name: Indiana University Bloomington
+- name: Postdoctoral Scholar
+- name: 21st Century China Center
+- name: School of Global Policy and Strategy
+- name: UC San Diego
   logo: /assets/images/badges/MIT_Social_circle.png
 
 email: "jscw@iu.edu"
