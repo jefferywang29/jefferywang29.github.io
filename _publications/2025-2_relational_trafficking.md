@@ -7,7 +7,7 @@ pub_pre:        ""
 pub:            '<span class="badge badge-pill badge-publication badge-success">International Studies Quarterly</span>'  
 pub_post:       ""
 pub_date:       '<span class="badge badge-pill badge-publication badge-success">2026</span>'  
-pub_last:       '<span class="badge badge-pill badge-publication badge-info">Conditionally Accepted</span>'
+pub_last:       '<span class="badge badge-pill badge-publication badge-info">Forthcoming</span>'
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
   While researchers have shown how anti-trafficking laws and disaster shocks impact human trafficking in origin and destination countries, little attention is given to the intermediary countries through which individuals are trafficked. We develop and test a two-part cost-based explanation of how anti-trafficking laws and disaster shocks impact trafficking networks through intermediary countries. Using inferential network analysis of human trafficking networks mined from the U.S. State Department’s Trafficking in Persons Report, we show that while anti-trafficking laws induce traffickers to diversify their trafficking routes, disaster shocks confound the effect of criminalization by pressuring traffickers to focus their resources on mitigating their impacts.
