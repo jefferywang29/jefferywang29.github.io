@@ -17,10 +17,15 @@ authors:
   - Jeffery Shih-Chieh Wang
   - Ore Koren (IUB)
 
+  
 links:
+  Journal Link:
+    url: https://doi.org/10.1093/isq/sqag107
+    target: _blank
   Preprint:
     url: https://doi.org/10.31235/osf.io/94wxa
     target: _blank
+
   # Weblink:
   #   url: https://www.google.com
   #   target: "_blank"
